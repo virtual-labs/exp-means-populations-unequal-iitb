@@ -1,0 +1,29 @@
+[
+   {
+      "question": "When variances across two independent groups are unequal, which of the following test is an appropriate test to test population means?",
+      "qid": 1,
+      "option_a": "Games-Howell post hoc test",
+      "option_b": "F-test",
+      "option_c": "Welch's t test",
+      "option_d": "Kruskal-Wallis test",
+      "correct_option": "c"
+   },
+   {
+      "question": "Test statistic formula under Welch t-test is",
+      "qid": 2,
+      "option_a": "$$ t = \\frac{m_A - m_B}{\\sqrt{\\frac{S_A^2}{n_A} + \\frac{S_B^2}{n_B}}} $$",
+      "option_b": "$$ t = \\frac{m_A + m_B}{\\sqrt{\\frac{S_A^2}{n_A} + \\frac{S_B^2}{n_B}}} $$",
+      "option_c": "$$ t = \\frac{m_A - m_B}{\\frac{S_A^2}{n_A} + \\frac{S_B^2}{n_B}} $$",
+      "option_d": "$$ t = \\frac{m_A - m_B}{\\frac{S_A^2}{n_A} - \\frac{S_B^2}{n_B}} $$",
+      "correct_option": "a"
+   },
+   {
+      "question": "Which of the following assumption is not true regarding Welch t-test?",
+      "qid": 3,
+      "option_a": "Two samples are dependent",
+      "option_b": "No significant outliers in two groups",
+      "option_c": "Data for each groups should be normally distributed",
+      "option_d": "Two groups are independent",
+      "correct_option": "a"
+   }
+]

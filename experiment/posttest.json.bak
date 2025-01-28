@@ -1,0 +1,29 @@
+[
+   {
+      "question": "In a two sample t-test for independent samples, the degree of freedom are calculated as:",
+      "qid": 1,
+      "option_a": "The product of sample sizes of both groups.",
+      "option_b": "The difference between the sample sizes of both groups.",
+      "option_c": "The sum of sample sizes of both groups.",
+      "option_d": "The sum of the degrees of freedom for each groups.",
+      "correct_option": "d"
+   },
+   {
+      "question": "The p-value in a t-test represents",
+      "qid": 2,
+      "option_a": "The probability of committing a type Ⅰ error",
+      "option_b": "The probability of observing the data if the null hypothesis is true",
+      "option_c": "The probability of observing the data if the alternative hypothesis is true",
+      "option_d": "The probability of committing type ⅠⅠ error",
+      "correct_option": "b"
+   },
+   {
+      "question": "A t-test with large effect size and small sample size is likely to have",
+      "qid": 3,
+      "option_a": "A high p-value",
+      "option_b": "An equal distribution of data",
+      "option_c": "A low p-value",
+      "option_d": "A large sample mean difference",
+      "correct_option": "c"
+   }
+]
